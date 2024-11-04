@@ -1,7 +1,7 @@
 # 📈 Stock Price Trend Analysis with HP Filter
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A Python tool that analyzes stock price trends using the Hodrick-Prescott filter, separating trend components from cyclical fluctuations in financial time series data.
 
